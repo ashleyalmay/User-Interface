@@ -64,3 +64,120 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body{
+	margin: 20px;
+}
+
+
+nav{
+	color: gray;
+	background: white;
+	height: 80px;
+	width: 100%;
+	padding: 2px;
+	margin: 10px;
+}
+.logo{
+	line-height:  20px;
+	padding: 0 50px;
+	float: right;
+	margin-left:10px;
+	margin-bottom: 5px;
+}
+nav ul{
+	float:left; 
+	
+	padding:0 50px;
+}
+nav ul li{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+nav ul li a{
+	color: gray;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 50px;
+}
+#left{
+	width: 50%;
+	float: left;
+	text-align: center;
+	margin-top: 50px;
+	
+}
+.right{
+	width: 20%;
+	padding:10px;
+	margin: 20px;
+}
+
+h1{
+	font-size: 80px;
+	padding-top: 10px;
+	
+}
+
+button{
+	border: 1px solid;
+	padding left: 20px;
+	padding right: 20px;
+	font-size: 20px;
+}
+
+.middle-img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 50px;
+}
+
+.leftt{
+	padding-top: 50px;
+	float: left;
+	width: 50%;
+}
+.rightt{
+	padding-top: 50px;
+	float: left;
+	width: 50%;
+}
+.b1{
+	padding: 30px;
+	
+	padding-top: 50px;
+	float: left;
+	width: 30%;
+}
+.b2{
+	padding: 30px;
+	
+	padding-top: 50px;
+	float: left;
+	width: 30%;
+}
+.b3{
+	padding:30px;
+	
+	padding-top: 50px;
+	float: left;
+	width: 30%;	
+}
+
+.copyright{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 10%;
+}
+.br{
+	padding: 10px;
+}
+.bottom{
+	margin: 10px;
+}
+address{
+	padding-top: 200px;
+}
